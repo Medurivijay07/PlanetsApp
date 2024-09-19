@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.planetSlider-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  min-height: 100vh;
+  background-size: cover;
+}
+
+slider-container {
+  width: 60%;
+  color: white;
+}
+
+.slick-prev {
+  left: 3% !important;
+  z-index: 1;
+}
+
+.slick-next {
+  right: 3% !important;
+  z-index: 1;
+}

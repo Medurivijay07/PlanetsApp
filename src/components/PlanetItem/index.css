@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.palnet-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #f8fafc;
+  padding: 20px;
+
+  height: 100vh;
+}
+
+.image-size {
+  width: 50%;
+}
+
+.planets-title {
+  color: #05acff;
+}
